@@ -14,5 +14,5 @@ Dosen : Agung Nugroho,S.Kom.,M.Kom.
 
 LINK DOKUMENTASI  :[311910606-TI.19.A3-UAS-PW-SOVIA YUNANDA.pdf](https://github.com/soviayunanda/LabUAS/files/6859471/311910606-TI.19.A3-UAS-PW-SOVIA.YUNANDA.pdf)
 
-LINK DEMO         : (https://localhost/Lab_uas/uas/antrian)
+LINK DEMO         : https://localhost/Lab_uas/uas/antrian
 
